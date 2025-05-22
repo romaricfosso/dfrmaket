@@ -1,0 +1,5 @@
+bucket         = "backend-dfr-maket"
+key            = "prod/terraform.tfstate"
+region         = "eu-west-1"
+dynamodb_table = "dfr-maket-dynamo"
+encrypt        = true
